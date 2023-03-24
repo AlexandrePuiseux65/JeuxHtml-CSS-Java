@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: whitesmoke;
+}
+
+nav ul {
+    display: flex;
+    background: lightgreen;
+    margin-bottom: 20px;
+    list-style-type: none;
+}
+
+nav ul li a {
+    display: block;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+}
+
+nav ul li a:hover {
+    color: gray;
+}
+
+p {
+    color: black;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 200%;
+}
+
+h1 {
+    color: yellowgreen;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 700%;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+.green {
+    background-color: lightblue;
+  }
+.pink {
+    background-color: pink;
+  }
+.yellow {
+    background-color: yellow;
+  }
+
+.container {
+    width: 80%;
+    margin: auto;
+}

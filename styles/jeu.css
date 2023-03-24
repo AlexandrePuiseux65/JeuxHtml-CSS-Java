@@ -1,0 +1,10 @@
+.box {
+    background: black;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    cursor: pointer;
+}
+/* https://www.magic-ville.com/fr/scan_art?imid=45746 */
